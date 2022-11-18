@@ -1,5 +1,6 @@
 :root {
-    --line-border-fill : #3498db;
+    /* #3498db */
+    --line-border-fill : #d42a0c;
     --line-border-empty : #e0e0e0;
 
 }
